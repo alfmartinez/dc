@@ -1,0 +1,15 @@
+{
+  "name": "dc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alfmartinez/dc.git",
+  "author": "Alexandre Martinez <alexandre.martinez@benextcompany.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "publish": "node publish.js"
+  },
+  "dependencies": {
+    "md2gslides": "^0.3.0"
+  }
+}
